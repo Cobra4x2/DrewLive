@@ -157,6 +157,8 @@ http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 http://38.143.48.212:9981/stream/channelid/1265777165?profile=pass
 #EXTINF:-1 group-title="AriaPlus - Canada",Weather Network
 http://38.143.48.212:9981/stream/channelid/524858336?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43304/2e678067-e153-4991-a150-58ced8360d63.png?w=800&h=800" group-title="AriaPlus - Japan",WOWOW Prime
+https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png" group-title="AriaPlus - North Korea",Korea Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc" group-title="AriaPlus - New Zealand",TVNZ 1
