@@ -1,29 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="49Ers @ Buccaneers" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Tampa-Bay-Buccaneers.svg" group-title="NFLWebcast - Live Games",49Ers @ Buccaneers
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/523.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cardinals @ Colts" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Indianapolis-Colts.svg" group-title="NFLWebcast - Live Games",Cardinals @ Colts
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/513.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chargers @ Dolphins" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Miami-Dolphins.svg" group-title="NFLWebcast - Live Games",Chargers @ Dolphins
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/514.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cowboys @ Panthers" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Carolina-Panthers.svg" group-title="NFLWebcast - Live Games",Cowboys @ Panthers
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/514.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Lions @ Chiefs" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Kansas-City-Chiefs.svg" group-title="NFLWebcast - Live Games",Lions @ Chiefs
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/547.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Saints" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-Orleans-Saints.svg" group-title="NFLWebcast - Live Games",Patriots @ Saints
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
@@ -33,17 +8,7 @@ https://gate.pixelpanel.online/hdstream/embed/515.m3u8
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/512.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seahawks @ Jaguars" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Jacksonville-Jaguars.svg" group-title="NFLWebcast - Live Games",Seahawks @ Jaguars
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/547.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Titans @ Raiders" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Las-Vegas-Raiders.svg" group-title="NFLWebcast - Live Games",Titans @ Raiders
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/513.m3u8
+https://locked.pixelpanel.online/hdstream/embed/335.m3u8
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",NFL Network
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
@@ -133,7 +98,7 @@ https://gate.pixelpanel.online/hdstream/embed/620.m3u8
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/619.m3u8
+https://gate.pixelpanel.online/hdstream/embed/625.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Indiana Pacers" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&w=64&h=64" group-title="NBAWebcast - Live Games",Oklahoma City Thunder vs Indiana Pacers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
